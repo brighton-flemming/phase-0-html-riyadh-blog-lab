@@ -7,12 +7,11 @@ SUB HEAD
 `Where A Traditional Past Meets A Modern Future.`
 
 IMAGE 1 FILE
-
 `transit.jpg`
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
+`Modern transit`
 
 SMALLER SUB HEAD
 
